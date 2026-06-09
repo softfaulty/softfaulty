@@ -1,126 +1,145 @@
 <div align="center">
 
-# softfault
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=B58CFF&center=true&vCenter=true&width=520&lines=game+systems+%2F+devtools+%2F+backend+things;breaking+things+until+they+work;probably+debugging+something+stupid" alt="typing svg" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:0d1117,100:7c3aed&text=softfault&fontColor=e6edf3&fontSize=54&animation=fadeIn&stroke=b58cff&strokeWidth=1" />
 
 <br />
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript\&logoColor=8AB4F8)
-![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge\&logo=rust\&logoColor=F0A070)
-![Luau](https://img.shields.io/badge/Luau-111111?style=for-the-badge\&logo=roblox\&logoColor=FFFFFF)
-![Bun](https://img.shields.io/badge/Bun-111111?style=for-the-badge\&logo=bun\&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=8AB4F8)
+<sub>softfault</sub>
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/status-debugging%20something%20stupid-111111?style=flat-square&labelColor=111111&color=7c3aed" />
+<img src="https://img.shields.io/badge/mode-build%20quietly-111111?style=flat-square&labelColor=111111&color=7c3aed" />
+<img src="https://img.shields.io/badge/location-somewhere%20in%20the%20stack%20trace-111111?style=flat-square&labelColor=111111&color=7c3aed" />
 
 </div>
 
 ---
 
-## hi, i'm mira
+```txt
+> whoami
 
-i build weird backend things, game systems, devtools, and small utilities that start as jokes and somehow become real projects.
+softfault
+```
+
+hi, i'm mira.
+
+i make systems, tools, little experiments, and code that usually starts with
+"this is probably a terrible idea" and ends with
+"wait why does this actually work?"
+
+i like building things that sit underneath everything else:
+auth flows, inventories, realtime systems, backend APIs, game logic, automation, CLIs, and weird devtools.
+
+not really here to be perceived.
+mostly here to build.
+
+---
+
+## ~/interests
 
 ```txt
-status: probably debugging something stupid
-location: somewhere in the stack trace
+systems/
+  auth
+  sessions
+  realtime APIs
+  data models
+  backend architecture
+
+games/
+  inventories
+  economies
+  progression
+  abilities
+  multiplayer edge cases
+
+tools/
+  CLIs
+  automation
+  devtools
+  local-first experiments
+  scripts that save 3 seconds and take 4 hours to write
+
+low_level/
+  compilers
+  runtimes
+  bytecode
+  decompilers
+  "what if i made this myself?"
 ```
 
 ---
 
-## currently interested in
+## ~/stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts" width="42" />
+<img src="https://skillicons.dev/icons?i=js" width="42" />
+<img src="https://skillicons.dev/icons?i=rust" width="42" />
+<img src="https://skillicons.dev/icons?i=lua" width="42" />
+<img src="https://skillicons.dev/icons?i=python" width="42" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="42" />
+<img src="https://skillicons.dev/icons?i=bun" width="42" />
+<img src="https://skillicons.dev/icons?i=postgres" width="42" />
+<img src="https://skillicons.dev/icons?i=prisma" width="42" />
+<img src="https://skillicons.dev/icons?i=docker" width="42" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=git" width="42" />
+<img src="https://skillicons.dev/icons?i=vscode" width="42" />
+<img src="https://skillicons.dev/icons?i=apple" width="42" />
+<img src="https://skillicons.dev/icons?i=figma" width="42" />
+
+</div>
+
+---
+
+## ~/things-i-build
 
 ```txt
-systems:
-  - backend architecture
-  - realtime APIs
-  - auth/session systems
-  - game infrastructure
+annoying problem → tiny tool
+small idea        → over-engineered backend
+game mechanic     → 12 edge cases
+random thought    → new repo at 3am
+```
 
-tools:
-  - devtools
-  - automation
-  - CLIs
-  - local-first software
+* backend systems with too many safety checks
+* game systems that survive player chaos
+* tools that make development less annoying
+* experiments with compilers, runtimes, and bytecode
+* utilities that probably did not need to exist, but do now
 
-games:
-  - Roblox systems
-  - economy / inventory logic
-  - progression systems
-  - weird multiplayer edge cases
+---
+
+## ~/current-vibe
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=B58CFF&center=true&vCenter=true&width=600&lines=breaking+things+until+they+work;probably+debugging+something+stupid;somewhere+between+sleep+and+syntax;building+quietly;do+not+perceive+the+runtime" />
+
+</div>
+
+```txt
+softfault.exe
+  state: not responding
+  reason: forgot a semicolon somewhere emotionally
 ```
 
 ---
 
-## stack
-
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=flat-square\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-181818?style=flat-square\&logo=typescript)
-![Rust](https://img.shields.io/badge/Rust-181818?style=flat-square\&logo=rust)
-![Lua](https://img.shields.io/badge/Lua%20%2F%20Luau-181818?style=flat-square\&logo=lua)
-![Python](https://img.shields.io/badge/Python-181818?style=flat-square\&logo=python)
+<img src="https://img.shields.io/badge/softfault.exe-not%20responding-111111?style=for-the-badge&labelColor=111111&color=7c3aed" />
 
-![Node.js](https://img.shields.io/badge/Node.js-181818?style=flat-square\&logo=nodedotjs)
-![Bun](https://img.shields.io/badge/Bun-181818?style=flat-square\&logo=bun)
-![Fastify](https://img.shields.io/badge/Fastify-181818?style=flat-square\&logo=fastify)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181818?style=flat-square\&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-181818?style=flat-square\&logo=prisma)
+<br />
+<br />
 
-![Git](https://img.shields.io/badge/Git-181818?style=flat-square\&logo=git)
-![Docker](https://img.shields.io/badge/Docker-181818?style=flat-square\&logo=docker)
-![macOS](https://img.shields.io/badge/macOS-181818?style=flat-square\&logo=apple)
-![VSCode](https://img.shields.io/badge/VSCodium-181818?style=flat-square\&logo=vscodium)
-
-</div>
-
----
-
-## what i make
-
-* tools that make annoying things less annoying
-* backend systems that are probably over-engineered
-* game systems with too many edge cases
-* experiments that start cursed and become useful
-* code that breaks three times before it works once
-
----
-
-## github stuff
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=softfaulty&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=B58CFF&icon_color=B58CFF&text_color=E6EDF3" alt="GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softfaulty&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=B58CFF&text_color=E6EDF3" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=softfaulty&theme=midnight-purple&hide_border=true&background=0D1117&ring=B58CFF&fire=B58CFF&currStreakLabel=B58CFF" alt="GitHub streak" />
-
-</div>
-
----
-
-## contact
-
-i keep real-life details private.
-if you need to reach me, use the links on my profile or open an issue where it makes sense.
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=softfaulty\&style=flat-square\&color=8b5cf6)
-
-</div>
-
----
-
-<div align="center">
-
-```txt
-softfault.exe is not responding
-```
+<sub>this is my little space on the internet <3</sub>
 
 </div>

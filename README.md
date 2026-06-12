@@ -10,10 +10,6 @@
 
 
 
-<sub>mira / softfault</sub>
-
-
-
 <br />
 
 <br />
@@ -62,31 +58,11 @@
 
 
 
-```txt
-
-softfault/
-
-  systems      auth · sessions · realtime · APIs
-
-  games        inventories · economies · multiplayer edge cases
-
-  tools        CLIs · automation · devtools
-
-  low_level    runtimes · bytecode · decompilers
-
-```
-
-
-
----
-
-
-
 <div align="center">
 
 
 
-<img src="https://img.shields.io/badge/softfault.exe-not%20responding-111111?style=for-the-badge&labelColor=111111&color=7c3aed" />
+<sub>softfault.exe is not responding...</sub>
 
 
 

@@ -2,7 +2,7 @@
 <br><br>
 <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="48" alt="GitHub loading icon">
 
-<h2 style="border: 0;">We couldn't load this person.</h2>
+<h3>We couldn't load this person.</h3>
 
 The requested user exists, but is currently unavailable.
 
